@@ -10,11 +10,11 @@
 * Intercambiar experiencias y conocimiento sobre el Software Libre, especialmente sobre proyectos venezolanos.
 
 ## Tareas/Actividades:
-Atención virtual
+### Atención virtual
 * Proporcionar copias de GNU/Linux Canaima
 * Proporcionar documentación de GNU/Linux Canaima
 
-## Atención física:
+### Atención física:
 * Reparación de hardware
 * Instalación de GNU/Linux Canaima
 
